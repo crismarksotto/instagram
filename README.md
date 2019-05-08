@@ -13,7 +13,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 # Prerequisites
 
-Just include all necessary css and js files that are inside index.html. Do not remove anything if you don't know what it does.
+Just include all necessary css and js files. Do not remove anything if you don't know what it does.
 
 # Installing
 
