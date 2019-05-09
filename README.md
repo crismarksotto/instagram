@@ -1,4 +1,4 @@
-# Project Title
+# Project Description
 
 Simple js app that loads your instagram posts into a slider.
 
